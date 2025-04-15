@@ -1,6 +1,5 @@
 package trungTo_hauTo;
 class Node {
-    //
     int data;
     Node next;
 
